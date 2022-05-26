@@ -14,8 +14,9 @@ def markAttendance(name):
 
           if name not in nameList:
               now = datetime.now()
+              dtstring1 = now.date()
               dtstring = now.strftime('%H:%M:%S')
-              f.writelines(f'\n{name},{dtstring}')
+              f.writelines(f'\n{name},{dtstring1},{dtstring}')
 
 # get the face_id and the username during login process
 
@@ -27,10 +28,11 @@ def login_list(name,face_id):
             entry = line.split(',')
             nameList.append(entry[0])
 
-        if name not in nameList:
-            now = datetime.now()
-            dtstring = now.strftime('%H:%M:%S')
-            f1.writelines(f'\n{name},{face_id},{dtstring}')
+
+        now = datetime.now()
+        dtstring1 = now.date()
+        dtstring = now.strftime('%H:%M:%S')
+        f1.writelines(f'\n{name},{face_id},{dtstring1},{dtstring}')
 
 
 
