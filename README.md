@@ -18,9 +18,9 @@ Develop a browser-based application to demonstrate application of Face Recogniti
 ## Functionalities and Features:
    |Functionalities and Features|Images|
    |--------------------------- | ------|
-   |Well designed web pages||
-   |Admin login ||
-   |Alert to provide the status||
+   |Well designed web pages|![Screenshot (73)](https://user-images.githubusercontent.com/93571457/170647648-b333d988-b1ef-4924-a478-cf55d9fd2a48.png)|
+   |Admin login |![Screenshot (74)](https://user-images.githubusercontent.com/93571457/170647727-85e26020-4f07-41e1-bf58-113d7fe811df.png)|
+   |Alert to provide the status|![Screenshot (75)](https://user-images.githubusercontent.com/93571457/170647789-ea5f452b-f038-4399-803d-ac4a0cec75cc.png)![Screenshot (361)](https://user-images.githubusercontent.com/93571457/170647874-eb708938-2d8e-420e-b37e-07fe9d6bc79a.png)|
    |Admin Dashboard to handle the data||
    |Employee Detail at admin dashboard along with edit and delete options||
    |Attendance tracked using face-recognition is also present at admin dashboard||
