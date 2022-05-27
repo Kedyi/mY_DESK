@@ -1,5 +1,5 @@
 # mY_DESK
-##Microsoft Engage 22 project : An Employee Management System using face recognition for user authentication, security as well as attendance tracking.
+## Microsoft Engage 22 project : An Employee Management System using face recognition for user authentication, security as well as attendance tracking.
 
 Facial recognition is in the limelight today more than ever.The principal use of face recognition technology continues to be security solutions. Facial recognition is recognized as one of the most accurate and easy ways for establishing individual identity across a wide range of sectors.
 Benefits of Facial Recognition begins from Improved public safety to aviation and transport or even for access and authentication.
