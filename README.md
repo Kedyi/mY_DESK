@@ -15,7 +15,26 @@ This project is built during the MICROSOFT ENGAGE PROGRAM 22.The program is desi
 
 Develop a browser-based application to demonstrate application of Face Recognition technology.
 
+## Functionalities and Features:
+   |Functionalities and Features|Images|
+   |--------------------------- | ------|
+   |Well designed web pages||
+   |Admin login ||
+   |Alert to provide the status||
+   |Admin Dashboard to handle the data||
+   |Employee Detail at admin dashboard along with edit and delete options||
+   |Attendance tracked using face-recognition is also present at admin dashboard||
+   |Login status of who logged-in to whose account using the Employee id and username||
+   |Change password option at admin as well as at employee dashboard||
+   |Employee Sign-up for new registration followed by detection of face||
+   |Employee login along with face recognition||
+   |Edit profile at Employee dashboard||
+   
+   
+   
+## License
 
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Clone repo
 
