@@ -30,7 +30,8 @@ Develop a browser-based application to demonstrate application of Face Recogniti
    |Employee login along with face recognition|![Screenshot (358)](https://user-images.githubusercontent.com/93571457/170648864-a0e76856-f74b-46e5-83b3-016097a19d8a.png)|
    |Edit profile at Employee dashboard|![Screenshot (360)](https://user-images.githubusercontent.com/93571457/170648933-2045259b-ecb1-40ab-8c11-c2e8e1506a4e.png)|
    
-   
+   ## Application Flow
+   ![Screenshot (363)](https://user-images.githubusercontent.com/93571457/170649560-ed185776-95fd-4458-89cd-5fba49ca09a9.png)
    
 ## License
 
