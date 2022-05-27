@@ -8,7 +8,7 @@ Your face, and its unique features, is used to confirm your identity on your dig
 mY_DESK : It is an Employee Management System using face recognition for user authentication, security as well as attendance tracking.
 It captures your face during the registration and later provides you with extra security for your account.
 
-This project is built during the MICROSOFT ENGAGE PROGRAM 22.It is designed to provide a platform for engineering students to accelerate their growth and foster industry-relevant skills through mentorship, coding challenges, workshops and networking opportunities.
+This project is built during the MICROSOFT ENGAGE PROGRAM 22.The program is designed to provide a platform for engineering students to accelerate their growth and foster industry-relevant skills through mentorship, coding challenges, workshops and networking opportunities.
 
 Problem statement (as given)
 
