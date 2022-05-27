@@ -37,7 +37,7 @@ Develop a browser-based application to demonstrate application of Face Recogniti
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Clone repo
+## Clone repository
 
 To deploy this project run
 
