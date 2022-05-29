@@ -15,6 +15,8 @@ This project is built during the MICROSOFT ENGAGE PROGRAM 22.The program is desi
 
 Develop a browser-based application to demonstrate application of Face Recognition technology.
 
+### Demo video link: https://drive.google.com/file/d/1PiQEy5VWFsk498nysc1lUisg_Al_LSis/view?usp=sharing 
+
 ## Functionalities and Features:
    |Functionalities and Features|Images|
    |--------------------------- | ------|
@@ -32,8 +34,6 @@ Develop a browser-based application to demonstrate application of Face Recogniti
    
    ## Application Flow
    ![Screenshot (363)](https://user-images.githubusercontent.com/93571457/170649560-ed185776-95fd-4458-89cd-5fba49ca09a9.png)
-   
-   ## Demo video link: https://drive.google.com/file/d/1PiQEy5VWFsk498nysc1lUisg_Al_LSis/view?usp=sharing
    
    ## Technologies:
    
