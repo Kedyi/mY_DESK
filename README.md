@@ -43,6 +43,9 @@ Develop a browser-based application to demonstrate application of Face Recogniti
 ![image](https://user-images.githubusercontent.com/93571457/170847679-e4d24cd0-d7f9-4145-a9a9-092618aafdb1.png)                                                    ![image](https://user-images.githubusercontent.com/93571457/170847497-ddaf78d1-7730-4c10-9ef3-0d89a7dc7195.png)
 ![image](https://user-images.githubusercontent.com/93571457/170847960-59154026-2117-407f-b062-7633baf10eca.png)
 
+## Important instruction:
+•	For attendance,each day before the server begins we will have to manually cut the details from Presentlist.csv file and put the details in other file. As only the first time the user login into the account the attendance will be marked. If the name is already present we won't be able to track the employee.
+I’ll soon resolve the issue. 
    
 ## License
 
