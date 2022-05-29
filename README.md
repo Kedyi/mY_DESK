@@ -33,6 +33,8 @@ Develop a browser-based application to demonstrate application of Face Recogniti
    ## Application Flow
    ![Screenshot (363)](https://user-images.githubusercontent.com/93571457/170649560-ed185776-95fd-4458-89cd-5fba49ca09a9.png)
    
+   ## Demo video link: https://drive.google.com/file/d/1PiQEy5VWFsk498nysc1lUisg_Al_LSis/view?usp=sharing
+   
    ## Technologies:
    
 ![image](https://user-images.githubusercontent.com/93571457/170847553-9b33e73c-0717-48ae-87b6-0c6e1dba12db.png) 
@@ -40,12 +42,6 @@ Develop a browser-based application to demonstrate application of Face Recogniti
 ![image](https://user-images.githubusercontent.com/93571457/170847569-492f9687-b6e7-4ad2-9e2d-0c80cfaca38a.png)                              
 ![image](https://user-images.githubusercontent.com/93571457/170847679-e4d24cd0-d7f9-4145-a9a9-092618aafdb1.png)                                                    ![image](https://user-images.githubusercontent.com/93571457/170847497-ddaf78d1-7730-4c10-9ef3-0d89a7dc7195.png)
 ![image](https://user-images.githubusercontent.com/93571457/170847960-59154026-2117-407f-b062-7633baf10eca.png)
-
-
-
-  
-
-
 
    
 ## License
